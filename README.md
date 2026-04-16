@@ -2,7 +2,7 @@
 
 # ✦ AuraEdge
 
-**Ambient edge-lighting overlay for Windows — inspired by macOS Tahoe.**
+**Ambient Ring Light overlay to brighten your face glow in Dark Environments, designed for Windows**
 
 AuraEdge draws a glowing, colour-tuneable ring around the edges of every connected monitor. 
 Aids in Display of face in Night,Dark Scenarios.

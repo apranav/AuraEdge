@@ -8,18 +8,29 @@ AuraEdge draws a glowing, colour-tuneable ring around the edges of every connect
 Aids in Display of face in Night,Dark Scenarios.
 It reacts to your cursor in real time, integrates with your webcam, and disappears from screen recordings — all without touching a single display driver.
 
-![AuraEdge banner placeholder](https://placehold.co/900x200/0c0c18/6c47db?text=AuraEdge+%E2%80%94+Ambient+Edge+Lighting+for+Windows)
-
 [![.NET 10](https://img.shields.io/badge/.NET-10.0--windows-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
 [![WPF](https://img.shields.io/badge/UI-WPF-blue)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2B-0078D4?logo=windows)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/license-MIT-green)](Installer/license.txt)
-<div align="center">
 
-# Direct Download
-[![Download](https://img.shields.io/badge/Download-AuraEdge_Setup.exe-blue?style=for-the-badge&logo=github)](https://github.com/apranav/AuraEdge/releases/download/stable/AuraEdge_Setup.exe)
+[![Download](https://img.shields.io/badge/Download-AuraEdge_Setup.exe-6c47db?style=for-the-badge&logo=github)](https://github.com/apranav/AuraEdge/releases/download/stable/AuraEdge_Setup.exe)
+
+<br/>
+
+![AuraEdge in action — ambient edge lighting on a laptop during a video call](https://raw.githubusercontent.com/apranav/AuraEdge/main/Pic.png)
 
 </div>
+
+---
+
+## 🎬 Demo
+
+<div align="center">
+
+[![Watch the AuraEdge demo on YouTube](https://img.youtube.com/vi/Govd1o8GM_4/maxresdefault.jpg)](https://youtu.be/Govd1o8GM_4)
+
+*Click to watch the demo on YouTube*
+
 </div>
 
 ---

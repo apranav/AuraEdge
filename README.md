@@ -73,7 +73,7 @@ On first run it creates `%APPDATA%\AuraEdge\settings.json` automatically.
 ### Steps
 
 ```bash
-git clone https://github.com/krishnapranav/AuraEdge.git
+git clone https://github.com/apranav/AuraEdge.git
 cd AuraEdge
 dotnet build EdgeLightApp/EdgeLightApp.csproj -c Release
 ```

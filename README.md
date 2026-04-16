@@ -23,13 +23,13 @@ It reacts to your cursor in real time, integrates with your webcam, and disappea
 
 ---
 
-## 🎬 What is AuraEdge?
+## 🎬 Demo
 
 <div align="center">
 
-[![Watch the AuraEdge demo on YouTube](https://img.youtube.com/vi/Govd1o8GM_4/maxresdefault.jpg)](https://youtu.be/Govd1o8GM_4)
-
-*Click to watch the demo on YouTube*
+<video src="https://raw.githubusercontent.com/apranav/AuraEdge/main/AuraEdge.mp4" controls width="900" poster="https://img.youtube.com/vi/Govd1o8GM_4/maxresdefault.jpg">
+  <a href="https://youtu.be/Govd1o8GM_4">Watch the AuraEdge demo on YouTube</a>
+</video>
 
 </div>
 

@@ -64,6 +64,21 @@ It reacts to your cursor in real time, integrates with your webcam, and disappea
 Download `AuraEdge.exe` from Releases and place it anywhere.  
 On first run it creates `%APPDATA%\AuraEdge\settings.json` automatically.
 
+### ⚠️ Windows SmartScreen warning
+
+Because AuraEdge is not yet code-signed, Windows may show a "Windows protected your PC" screen.  
+This is normal for any new, unsigned open-source app — the file is safe.
+
+**To run it anyway:**
+1. Click **"More info"** on the SmartScreen dialog
+2. Click **"Run anyway"**
+
+**If your browser blocked the download:**
+- Chrome / Edge: click the **⋯** menu on the download bar → **Keep** → **Keep anyway**
+
+**After downloading** (optional extra step):
+- Right-click `AuraEdge.exe` → **Properties** → tick **Unblock** → **Apply**
+
 ---
 
 ## 🔨 Build from Source

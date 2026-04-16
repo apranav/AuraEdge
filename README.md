@@ -18,8 +18,6 @@ It reacts to your cursor in real time, integrates with your webcam, and disappea
 # Direct Download
 [![Download](https://img.shields.io/badge/Download-AuraEdge_Setup.exe-blue?style=for-the-badge&logo=github)](https://github.com/apranav/AuraEdge/releases/download/stable/AuraEdge_Setup.exe)
 
-[Click here to download AuraEdge](https://github.com/apranav/AuraEdge/releases/download/stable/AuraEdge_Setup.exe)
-
 </div>
 </div>
 

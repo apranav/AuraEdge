@@ -4,7 +4,8 @@
 
 **Ambient edge-lighting overlay for Windows — inspired by macOS Tahoe.**
 
-AuraEdge draws a glowing, colour-tuneable ring around the edges of every connected monitor.  
+AuraEdge draws a glowing, colour-tuneable ring around the edges of every connected monitor. 
+Aids in Display of face in Night,Dark Scenarios.
 It reacts to your cursor in real time, integrates with your webcam, and disappears from screen recordings — all without touching a single display driver.
 
 ![AuraEdge banner placeholder](https://placehold.co/900x200/0c0c18/6c47db?text=AuraEdge+%E2%80%94+Ambient+Edge+Lighting+for+Windows)

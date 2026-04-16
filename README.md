@@ -23,7 +23,7 @@ It reacts to your cursor in real time, integrates with your webcam, and disappea
 
 ---
 
-## 🎬 Demo
+## 🎬 What is AuraEdge?
 
 <div align="center">
 

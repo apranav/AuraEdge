@@ -179,7 +179,7 @@ MIT — see [`Installer/license.txt`](Installer/license.txt)
 
 <div align="center">
 
-**Developed by [Krishna Pranav](https://github.com/krishnapranav)**
+**Developed by [Krishna Pranav](https://github.com/apranav)**
 
 *If you find AuraEdge useful, consider giving it a ⭐ — it helps a lot!*
 

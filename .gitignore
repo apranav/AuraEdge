@@ -1,0 +1,26 @@
+# Build output
+bin/
+obj/
+publish/
+out/
+
+# Visual Studio / Rider
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.idea/
+
+# Publish profiles (local paths)
+**/Properties/PublishProfiles/*.pubxml.user
+
+# Installer output
+Installer/Output/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log

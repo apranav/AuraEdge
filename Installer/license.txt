@@ -1,0 +1,31 @@
+AURAEDGE - TERMS AND CONDITIONS
+
+DISCLAIMER OF LIABILITY
+
+AuraEdge is provided "as is" without warranty of any kind. The developers
+and distributors of AuraEdge are NOT responsible for any damage including
+but not limited to:
+
+  - Display damage (burn-in, pixel damage, brightness degradation,
+    backlight damage)
+  - Hardware damage of any kind including GPU, monitor, or peripheral damage
+  - Software corruption, system crashes, or data loss
+  - Operating system instability caused directly or indirectly by this app
+  - Any indirect, incidental, special, or consequential damages arising
+    from the use or inability to use this application
+
+USE AT YOUR OWN RISK
+
+AuraEdge modifies the visual rendering layer of your Windows desktop by
+drawing overlay windows on screen edges. By proceeding with installation,
+you acknowledge that:
+
+  1. You have read and understood this disclaimer in full
+  2. You accept all risks associated with running this software
+  3. The authors and distributors bear absolutely no responsibility for
+     any issues, damages, or losses arising from its use
+  4. This software is not affiliated with or endorsed by Microsoft,
+     ASUS, or any hardware manufacturer
+
+If you do not agree to these terms, click "I Do Not Accept" to cancel
+the installation.

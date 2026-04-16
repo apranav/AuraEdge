@@ -1,0 +1,55 @@
+<Window x:Class="EdgeLightApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AuraEdge"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        Topmost="True"
+        ResizeMode="NoResize"
+        ShowInTaskbar="False">
+
+    <Grid x:Name="LightContainer">
+
+        <!-- ═══ ON MODE: glowing edge light ═══════════════════════════════ -->
+        <Grid x:Name="OnStateDisplay" Visibility="Collapsed">
+            <!-- Glow layer: blurred border creates the soft ambient bloom -->
+            <Border x:Name="GlowBorder"
+                    BorderBrush="White"
+                    BorderThickness="10"
+                    CornerRadius="20"
+                    Background="Transparent"
+                    Opacity="0.35">
+                <Border.Effect>
+                    <BlurEffect x:Name="GlowBlur" Radius="30"/>
+                </Border.Effect>
+            </Border>
+            <!-- Sharp light border on top -->
+            <Border x:Name="LightBorder"
+                    BorderBrush="White"
+                    BorderThickness="11"
+                    CornerRadius="20"
+                    Background="Transparent"/>
+        </Grid>
+
+        <!-- ═══ OFF MODE: no bar — just vertical "AuraEdge" text on the sidebar ══ -->
+        <Grid x:Name="OffStateDisplay" Visibility="Visible">
+            <!-- No background border. Text sits directly on the transparent window edge. -->
+            <TextBlock x:Name="OffLabel"
+                       Text="AuraEdge"
+                       HorizontalAlignment="Right"
+                       VerticalAlignment="Center"
+                       Margin="0,0,6,0"
+                       Foreground="#8ab4e8"
+                       FontFamily="Segoe UI"
+                       FontSize="13"
+                       FontWeight="SemiBold"
+                       Opacity="0.75">
+                <TextBlock.LayoutTransform>
+                    <RotateTransform Angle="-90"/>
+                </TextBlock.LayoutTransform>
+            </TextBlock>
+        </Grid>
+
+    </Grid>
+</Window>

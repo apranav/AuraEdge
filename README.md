@@ -13,7 +13,7 @@ It reacts to your cursor in real time, integrates with your webcam, and disappea
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2B-0078D4?logo=windows)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/license-MIT-green)](Installer/license.txt)
 
-[![Download](https://img.shields.io/badge/Download-AuraEdge_Setup.exe-6c47db?style=for-the-badge&logo=github)](https://github.com/apranav/AuraEdge/releases/download/stable/AuraEdge_Setup.exe)
+[![Download](https://img.shields.io/badge/Download-AuraEdge_Setup.exe-6c47db?style=for-the-badge&logo=github)](https://github.com/apranav/AuraEdge/releases/download/stable/AuraEdge.exe)
 
 <br/>
 
